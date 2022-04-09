@@ -16,7 +16,11 @@
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-kostiuchenko/)
 
 ----
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages, Tools and Stats :
+
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=viktor-kostiuchenko&show_icons=true&theme=github_dark&hide=stars,issues&hide_border=true&count_private=true">
+
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -36,17 +40,3 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
-
----
-### :fire: My Stats :
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktor-kostiuchenko&show_icons=true&theme=github_dark&hide=stars,issues&hide_border=true&count_private=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viktor-kostiuchenko&theme=black-ice&&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-
-  
-
-
-
-
