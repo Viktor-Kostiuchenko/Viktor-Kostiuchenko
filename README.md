@@ -16,10 +16,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-kostiuchenko/)
 
 ----
-### :hammer_and_wrench: Languages, Tools and Stats :
-
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=viktor-kostiuchenko&show_icons=true&theme=github_dark&hide=stars,issues&hide_border=true&count_private=true">
-
+### :hammer_and_wrench: Languages and Tools :
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
